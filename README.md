@@ -24,7 +24,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/MR-Fluid-Actuators-ML.git
+git clone https://github.com/animesh_2611/MR-Fluid-Actuators-ML.git
 cd MR-Fluid-Actuators-ML
 Set up the Python environment:
 
